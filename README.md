@@ -6,11 +6,11 @@
 - 🌱 Хочу сменить направление: **data science, data analytics (sql+python)**. Плотно заботал курсы (нет), но уверен, что буду полезен!
 - 📫 Пишите, если понадоблюсь: dumber22128@yandex.ru
 
-<h3>✉️ Посмотреть что я реальный человек :</h3>
+<h3>✉️ Посмотреть, что я реальный человек :</h3>
 <p>
    <a href="https://vk.com/teslapanda" ><img align="center" src="https://img.icons8.com/color/48/000000/vk-circled.png" height="40" width="40"/></a> 
 </p>
-<h3>🛠 Languages and Tools :</h3>
+<h3>🛠 Языки and Инструменты :</h3>
 <p>
    <!-- Python -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
